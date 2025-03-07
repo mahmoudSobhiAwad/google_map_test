@@ -1,4 +1,4 @@
- *Google Maps Location Picker in Flutter
+Google Maps Location Picker in Flutter
 
 Overview
 
